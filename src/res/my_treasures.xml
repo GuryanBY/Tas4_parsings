@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treasures>
+	<ancient_book id="241">
+		<title>Lords of Earth</title>
+		<age>245</age>
+		<price>12</price>
+		<type>Very very old</type>
+		<pages>215</pages>
+		<lanquage>en-GB</lanquage>
+	</ancient_book>
+
+	<ancient_scroll id="251">
+		<title>Golden fix</title>
+		<age>23</age>
+		<price>12</price>
+		<content>The basic rules to get the money and gold</content>
+		<school_of_magic>Fire magic school</school_of_magic>
+	</ancient_scroll>
+
+	<ancient_book id="242">
+		<title>King of Road</title>
+		<age>200</age>
+		<price>32</price>
+		<type>Very old</type>
+		<pages>120</pages>
+		<lanquage>en-GB</lanquage>
+	</ancient_book>
+
+
+	<ancient_scroll id="251">
+		<title>Hey Story</title>
+		<age>36</age>
+		<price>23</price>
+		<content>Focus on story</content>
+		<school_of_magic>Sky magic school</school_of_magic>
+	</ancient_scroll>
+
+	<ancient_book id="245">
+		<title>Book of the future</title>
+		<age>265</age>
+		<price>18.55</price>
+		<type>Old</type>
+		<pages>388</pages>
+		<lanquage>en-US</lanquage>
+	</ancient_book>
+<jewel id="11">
+		<title>Great jewel</title>
+		<age>265</age>
+		<price>324.57</price>
+		<jType>Precious stone</jType>
+		<material>Diamond</material>
+		<diameter>1.5</diameter>
+		<weight>0.01</weight>
+
+	</jewel>
+
+	<jewel id="12">
+		<title>Import jewel</title>
+		<age>265</age>
+		<price>3234.57</price>
+		<jType>Precious stone</jType>
+		<material>Diamond</material>
+		<diameter>1.2</diameter>
+		<weight>0.01</weight>
+	</jewel>
+	
+	
+	 
+
+	<ring id="21">
+		<title>Circle ring</title>
+		<age>220</age>
+		<price>751</price>
+		<material>Gold</material>
+		<weight>2.7</weight>
+		<style>Classic</style>
+		<hasPreciousStone>TRUE</hasPreciousStone>
+	</ring>
+
+	<ring id="22">
+		<title>Square ring</title>
+		<age>258</age>
+		<price>785</price>
+		<material>Gold</material>
+		<weight>7.9</weight>
+		<style>Classic</style>
+		<hasPreciousStone>FALSE</hasPreciousStone>
+	</ring>
+
+	<key id="131">
+		<title>Simple key</title>
+		<age>100</age>
+		<price>35.3</price>
+		<size>6</size>
+		<type>Socket wrench</type>
+		<whatOpen>door</whatOpen>
+	</key>
+
+	<key id="132">
+		<title>Complex ring</title>
+		<age>69</age>
+		<price>36</price>
+		<size>3</size>
+		<type>Head wrench</type>
+		<whatOpen>Window</whatOpen>
+	</key>
+
+	<princess id="321">
+		<title>Simple Princess</title>
+		<age>19</age>
+		<price>9999999999</price>
+		<name>Subdiana</name>
+		<damnation>FALSE</damnation>
+		<birthPlace>Planet Earth</birthPlace>
+	</princess>
+
+</treasures>
